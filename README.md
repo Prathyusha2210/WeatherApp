@@ -1,67 +1,22 @@
-# Weather API
+# Simple Weather App Tutorial
 
----
-
-<div>
-<b>Quick menu:</b>
-<a href="https://theultimateapichallenge.com/weather-api" target="_blank" rel="noopener noreferrer"
-    style="padding:0.35rem 0.7rem;
-    color: black;
-    background: #BDFFF3;
-    border-radius:10px;
-    font-size:0.85rem;
-    font-weight:600;">Challenge Page</a> |
-<a href="https://www.metaweather.com/api" target="_blank" rel="noopener noreferrer"
-    style="padding:0.35rem 0.7rem;
-    color: black;
-    background: #F1DEDE;
-    border-radius:10px;
-    font-size:0.85rem;
-    font-weight:600;">Official API Docs</a> |
-<a href="https://youtu.be/ephjeppbM6Y" target="_blank" rel="noopener noreferrer"
-    style="padding:0.35rem 0.7rem;
-    color: black;
-    background: #FE938C;
-    border-radius:10px;
-    font-size:0.85rem;
-    font-weight:600;">YouTube Video</a> 
-</div>
-
----
-
-## Description
-
-<p>The most common API beginner project must be the one that includes using the Weather API, and I got you covered! The <b>Weather API Challenge</b> will not only include working with more complex response, but it comes with a twist.</p>
-
-<p>Often times APIs aren't perfectly "fitting" into what the interface expects, so this challenge took a bit different direction and is about making some data manipulation before showing it to the user</p>
-
-<p>You will learn how to use jQuery and its native $.getJSON method to call the API as well as a concept such as Classes in JavaScript. It's gonna be fun and challenging, but don't give up, we're levelling up!</p>
-
-<p>Feel free to try out first yourself or jump on the YouTube video from the start, find what works best fo you and enjoy! 🐣
+<p align="left">
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
-### Tech stack
+Simple weather app using HTML, CSS, and JavaScript
 
-```
-Core:
-- HTML
-- CSS
-- JavaScript Classes
+![image](https://user-images.githubusercontent.com/20955511/111051345-0bcff300-845b-11eb-80ca-717a9a838e2c.png)
 
-Communication tool:
-- jQuery, $.getJSON
-```
+## Tutorial
 
-### Prerequisites
+Weather App Tutorial 👉 https://youtube.com/watch?v=WZNG8UomjSI
 
-```
-Knowledge level:
-basic understanding of HTML, CSS and JavaScript
+Geolocation Tutorial 👉 https://youtube.com/watch?v=JdJ2VBbYYTQ
 
-Tech:
-a computer/laptop to copy the files to with a code editor of your choice
-```
+## Demo site
 
-## Preview
+Without Geolocation 👉 https://freshidea.com/jonah/app/weather
 
-<img src="/preview.png" height="500" style="border-radius:10px;margin-bottom:1rem;" />
+With Geolocation 👉 https://freshidea.com/jonah/app/weather/geolocation
